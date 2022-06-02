@@ -1,0 +1,43 @@
+<quiz>
+  <question type="category">
+    <category>
+      <text>__Category Name__</text>
+    </category>
+  </question>
+  <!-- Question entry 1 -->
+  <question type="multichoice">
+    <name>
+      <text>
+        <![CDATA[__Question 1]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+        <![CDATA[Любимый фильм - "Форрест Гамп"]]>
+      </text>
+    </questiontext>
+    <answer fraction="0">
+      <text>
+        <![CDATA[Любимый сериал - "Друзья"]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+        <![CDATA[Любимая еда - Пицца]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+        <![CDATA[Любимое время года - Лето]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+        <![CDATA[Страна - Италия]]>
+      </text>
+    </answer>
+    <shuffleanswers>0</shuffleanswers>
+    <single>false</single>
+    <answernumbering>123</answernumbering>
+  </question>
+</quiz>
