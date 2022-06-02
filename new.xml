@@ -1,0 +1,38 @@
+<quiz>
+  <question type="category">
+    <category>
+      <text>__Category Name__</text>
+    </category>
+  </question>
+  <!-- Question entry 1 -->
+  <question type="multichoice">
+    <name>
+      <text>
+        <![CDATA[__Question 1]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+        <![CDATA[ФИО "Мальцев Антон Александрович"]]>
+      </text>
+    </questiontext>
+    <answer fraction="0">
+      <text>
+        <![CDATA[Возраст "34"]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+        <![CDATA[Количество домашних животных "одна собака"]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+        <![CDATA[Будущая желаемая зарплата "1000000"]]>
+      </text>
+    </answer>
+    <shuffleanswers>0</shuffleanswers>
+    <single>false</single>
+    <answernumbering>123</answernumbering>
+  </question>
+</quiz>
