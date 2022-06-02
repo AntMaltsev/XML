@@ -1,2 +1,69 @@
-
+<quiz>
+  <question type="category">
+    <category>
+      <text>__Category Name__</text>
+    </category>
+  </question>
+  <!-- Question entry 1 -->
+  <question type="multichoice">
+    <name>
+      <text>
+        <![CDATA[__Question 1]]>
+      </text>
+    </name>
+    <questiontext format="html">
+      <text>
+        <![CDATA[Testingng theory"]]>
+      </text>
+    </questiontext>
+    <answer fraction="0">
+      <text>
+        <![CDATA["Linux terminal"]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+        <![CDATA["Git"]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+        <![CDATA["GitHub"]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+        <![CDATA["Client-server architecture"]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+        <![CDATA["SQL"]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+        <![CDATA["Sniffers Charles and Fiddler"]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+        <![CDATA["Android Studio"]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+        <![CDATA["Dev Tools"]]>
+      </text>
+    </answer>
+    <answer fraction="0">
+      <text>
+        <![CDATA["Jmeter"]]>
+      </text>
+    </answer>
+    <shuffleanswers>0</shuffleanswers>
+    <single>false</single>
+    <answernumbering>123</answernumbering>
+  </question>
+</quiz>
 
